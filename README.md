@@ -45,7 +45,7 @@
 - 公告信息表（announcement）
 - 评论表、购物车表、收藏夹表等辅助表
 
-数据库结构详见 `docs/database_schema.md`
+数据库结构详见 `main/database_schema.md`
 
 ---
 
